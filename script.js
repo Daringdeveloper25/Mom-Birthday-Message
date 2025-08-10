@@ -1,8 +1,8 @@
 const messages = [
-    "Mom, thank you for always being there for me.",
+    "Mom, thank you for all that you do for us.",
     "You are always there for us when we need you.",
     "You support us in everything we do.",
-    "I hope your birthday is as wonderful as you are and that you have a great year ahead!.",
+    "I hope your birthday is as wonderful as you are and that you have a great year ahead.",
     "Happy Birthday Mom!"
 ];
 
